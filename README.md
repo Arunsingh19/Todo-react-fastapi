@@ -1,18 +1,10 @@
 # Developing a Single Page App with FastAPI and React
 
-### Want to learn how to build this?
-
-Check out the [tutorial](https://testdriven.io/blog/fastapi-react/).
-
-## Want to use this project?
-
-1. Fork/Clone
-
 1. Run the server-side FastAPI app in one terminal window:
 
     ```sh
     $ cd backend
-    $ python3.13 -m venv env
+    $ python3 -m venv env
     $ source env/bin/activate
     (env)$ pip install -r requirements.txt
     (env)$ python main.py
